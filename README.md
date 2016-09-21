@@ -13,12 +13,12 @@ Assets View 资产发现、网络拓扑管理系统采用PHP+MYSQL开发，资�
 
 ### 关于作者
 
-* [Cryin'][1]
-* [Hardy][2]
+* [Cryin']https://cryin.github.io/
+* [Hardy]https://cryin.github.io/
 
 ------
 ### Project Site
-[AssetsView Home Page][3]
+[AssetsView Home Page][https://github.com/Cryin/AssetsView]
 
 ------
 ## 使用帮助
