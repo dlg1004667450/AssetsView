@@ -14,7 +14,7 @@ Assets View 资产发现、网络拓扑管理系统采用PHP+MYSQL开发，资�
 ### 关于作者
 
 * Cryin'   https://cryin.github.io/
-* Hardy    https://cryin.github.io/
+* Hardy    https://hardyguo.github.io/
 
 ------
 ### Project Site
